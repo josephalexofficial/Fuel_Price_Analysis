@@ -59,7 +59,7 @@ This project can be extended by:
 
 To run this project:
 
-1. Clone the repository: `git clone https://github.com/kyosloth/fuel-prices-nairobi.git`
+1. Clone the repository: `git clone https://github.com/josephalexofficial/Fuel_Price_Analysis.git`
 2. Install the required libraries: `pip install pandas matplotlib sklearn`
 3. Open and run the `fuel_prices_analysis.ipynb` notebook using Jupyter Notebook or Google Colab.
 
