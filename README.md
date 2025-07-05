@@ -1,4 +1,3 @@
-# fuel-cpi-correlation
 # Fuel Prices Analysis in Nairobi, Kenya
 
 ## Project Overview
