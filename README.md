@@ -1,6 +1,6 @@
 # Fuel Prices Analysis in Nairobi, Kenya
 
-## Project Overview
+## Project Overview 
 
 This project analyzes fuel prices and their relationship with economic indicators like the Consumer Price Index (CPI) in Nairobi, Kenya. It uses historical data to identify trends and correlations, aiming to provide insights into the dynamics of fuel price fluctuations and their potential impact on the local economy.
 
